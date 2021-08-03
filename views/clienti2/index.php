@@ -33,7 +33,7 @@ $this->params['breadcrumbs'][] = $this->title;
             'data_fine',
             'attiva',
 
-            ['class' => 'yii\grid\ActionColumn'],
+            //['class' => 'yii\grid\ActionColumn'],
         ],
     ]); ?>
 
