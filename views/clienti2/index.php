@@ -13,7 +13,7 @@ $this->params['breadcrumbs'][] = $this->title;
 <div class="clienti2-index">
 
     <h1><?= Html::encode($this->title) ?></h1>
-
+    <p>MVC sono fatti con il CRUD di Gii</p>
     <p>
         <?= Html::a('Create Clienti2', ['create'], ['class' => 'btn btn-success']) ?>
     </p>

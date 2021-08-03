@@ -3,7 +3,7 @@ use yii\helpers\Html;
 use yii\widgets\LinkPager;
 ?>
 <h1>Clienti</h1>
-<p><
+<p>MVC sono fatti "From Scratch"</p>
 <ul>
 <?php foreach ($clienti as $cliente): ?>
     <li>
